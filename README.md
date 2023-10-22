@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lGraucol
 - 👀 I’m interested in LEARN 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ga.github@gmail.com
